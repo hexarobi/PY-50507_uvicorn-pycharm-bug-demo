@@ -1,6 +1,8 @@
 # PY-50507_uvicorn-pycharm-bug-demo
 Demo of PyCharm bug PY-50507
 
+https://youtrack.jetbrains.com/issue/PY-50507
+
 1. Clone this repo locally
 2. Run `make setup` to create a virtualenv and install uvicorn
 3. Install standard uvicorn dependencies with `pip install uvicorn[standard]`
